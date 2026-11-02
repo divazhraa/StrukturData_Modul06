@@ -895,12 +895,15 @@ int main()
     return 0;
 }
 ```
-### Output :
-![Screenshot Output Unguided 1](output/SinglyList.png)
-
 
 ### penjelasan
 [File main.cpp berperan sebagai pusat kendali utama yang mengeksekusi program dan berinteraksi langsung dengan pengguna melalui terminal (cin dan cout). Berkas ini bertugas mengendalikan alur aplikasi secara berurutan, mulai dari membuat list baru, menerima input dari pengguna, memanggil fungsi-fungsi pengolah data dari .cpp, hingga menampilkan hasil akhirnya ke layar.]
+
+
+
+### Output :
+![Screenshot Output Unguided 1](./output/DoublyList.png)
+
 
 
 ## PENJELASAN PROGRAM
